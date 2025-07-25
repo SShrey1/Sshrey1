@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm SShrey1!
+# 👋 Hi there, I'm Shrey Agrawal!
 
 Welcome to my GitHub profile!  
 I'm passionate about technology, coding, and building impactful projects. Here you'll find my latest work, experiments, and contributions.
