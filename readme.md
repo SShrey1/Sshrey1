@@ -23,8 +23,8 @@ I'm passionate about technology, coding, and building impactful projects. Here y
 
 ## 📫 How to reach me
 
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin)  
-- Email: your.email@example.com
+- [LinkedIn](https://www.linkedin.com/in/shrey-agrawal-108033228/)  
+- Email: palishrey@gmail.com
 
 ---
 
