@@ -14,7 +14,7 @@
 - 🎓 **B.Tech CSE @ SRM IST (2022–2026)** | CGPA: **8.98**
 - 🍏 **iOS Developer Trainee** – Building smart, beautiful apps in **Swift**
 - 🖥 **Full Stack Dev** – React, Node, Express, MongoDB, TypeScript
-- 🎯 Goal: **Turn ideas into sexy, production-ready digital products**
+- 🎯 Goal: **Turn ideas into production-ready digital products**
 - 🧠 Tech romantic who loves mixing **logic** & **aesthetics**
 
 ---
